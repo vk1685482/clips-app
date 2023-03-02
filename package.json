@@ -24,6 +24,7 @@
     "@angular/router": "^14.0.0",
     "@ffmpeg/core": "^0.10.0",
     "@ffmpeg/ffmpeg": "^0.10.1",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "@types/uuid": "^8.3.1",
     "@types/video.js": "^7.3.27",
     "@videojs/themes": "^1.0.1",
@@ -43,6 +44,7 @@
     "@cypress/schematic": "^2.0.0",
     "@types/jasmine": "~3.8.0",
     "@types/node": "^12.20.33",
+    "cypress": "latest",
     "jasmine-core": "~3.8.0",
     "karma": "~6.3.0",
     "karma-chrome-launcher": "~3.1.0",
@@ -50,7 +52,6 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
     "tailwindcss": "^3.0.23",
-    "typescript": "~4.7.3",
-    "cypress": "latest"
+    "typescript": "~4.7.3"
   }
 }
